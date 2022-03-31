@@ -9,13 +9,19 @@ it's result. For example, mine was `(a+b)/b`.
 
 ## Usage
 Clone:
-> git clone git@github.com:Velnbur/FNCP.git
+```shell
+$ git clone git@github.com:Velnbur/FNCP.git
+```
 
 Run:
-> python3 src/main.py
+```shell
+$ python3 src/main.py
+```
 
 And then enter two numbers that will be computed, for example:
-> Enter a and b: 1.2 3.4
+```shell
+$ Enter a and b: 1.2 3.4
+```
 
 ## Prerequisites
 
